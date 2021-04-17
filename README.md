@@ -1,6 +1,5 @@
 # COVID-19-Epidemic-Analysis-using-Machine-Learning-and-Deep-Learning-Algorithms
-This repository presents the epidmeic analysis to forecast the COVID-19 cases using machine learning (SVR and PR) and deep learning models (DNN and LSTM).
-
+This repository presents the epidmeic analysis to forecast the COVID-19 cases using machine learning (SVR and PR) and deep learning models (DNN and LSTM). Implented using keras and sklearn.
 
 # Citation
 ```
